@@ -2,8 +2,9 @@
   "name": "proyectoback1",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node --watch src/app.js"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
